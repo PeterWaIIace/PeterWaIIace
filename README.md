@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO WORLD
+
+I am Peter, software engineer from Poland, passionate about computing, tech, signal processing - currently working as embedded engineer proficient in C, interested in RUST, seeking algorithmic solutions in Python. 
 
 <!--
 **PeterWaIIace/PeterWaIIace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
