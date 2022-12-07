@@ -1,5 +1,15 @@
 ### HELLO WORLD
 
+```
+void send_it_later_alligator();
+
+crocodile = True;
+for(int a = 1;a > 0;)
+{
+  while(crocodile){}
+}
+```
+
 I am Peter, software engineer from Poland, passionate about computing, tech, signal processing - currently working as embedded engineer proficient in C, interested in RUST, seeking algorithmic solutions in Python. 
 
 My non-opensourced projects: 
