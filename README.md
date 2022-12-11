@@ -12,7 +12,7 @@ for(int a = 1;a > 0;)
 
 I am Peter, software engineer from Poland, passionate about computing, tech, signal processing - currently working as embedded engineer proficient in C, interested in RUST, seeking algorithmic solutions in Python. 
 
-Reach me via discord: discordapp.com/users/691353309868458056
+Reach me via [Discord](discordapp.com/users/691353309868458056).
 
 My non-opensourced projects: 
 https://websend-app.herokuapp.com/
