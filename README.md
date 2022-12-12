@@ -3,7 +3,7 @@
 ```
 void send_it_later_alligator();
 
-for(int a = 1;a > 0;)
+for(a)
 {
   while(crocodile){}
 }
