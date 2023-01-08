@@ -12,7 +12,8 @@ for(a)
 Reach me via [Discord](discordapp.com/users/691353309868458056).
 
 My non-opensourced projects: 
-https://websend-app.herokuapp.com/
+
+* https://websend-app.herokuapp.com/ ![status](https://img.shields.io/badge/status-down-red.svg)
 
 <!--
 **PeterWaIIace/PeterWaIIace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
