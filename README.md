@@ -11,6 +11,13 @@ for(a)
 
 Reach me via [Discord](discordapp.com/users/691353309868458056).
 
+## My non-opensourced projects: 
+
+### WebSend (adhoc communication)
+
+PnP adhoc messaging and file sending using webRTC!
+* [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
+
 ## OpenSourced Projects: 
 
 ### Boids [https://github.com/PeterWaIIace/Boids]
@@ -29,12 +36,6 @@ Reach me via [Discord](discordapp.com/users/691353309868458056).
 
 ![image](https://user-images.githubusercontent.com/40773550/218609556-b03af4a8-bbdd-4dc0-aa76-f0ffb5832244.png)
 
-## My non-opensourced projects: 
-
-### WebSend (adhoc communication)
-
-PnP adhoc messaging and file sending using webRTC!
-* [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 <!--
 **PeterWaIIace/PeterWaIIace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
