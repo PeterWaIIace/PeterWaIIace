@@ -33,7 +33,8 @@ Reach me via [Discord](discordapp.com/users/691353309868458056).
 
 ### WebSend (adhoc communication)
 
-* https://websend-app.herokuapp.com/ ![status](https://img.shields.io/badge/status-down-red.svg)
+PnP adhoc messaging and file sending using webRTC!
+* [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 <!--
 **PeterWaIIace/PeterWaIIace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
