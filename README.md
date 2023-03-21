@@ -22,11 +22,16 @@ PnP adhoc messaging and file sending using webRTC!
 
 ### Boids [https://github.com/PeterWaIIace/Boids]
 
-
-
 <p align="center">
   <img src=https://user-images.githubusercontent.com/40773550/221363441-8afa31f7-3d15-4258-a417-1056fa4e333d.gif>
 </p>
+
+### Genetic Painter [https://github.com/PeterWaIIace/GeneticPainter]
+
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/40773550/226498912-39fe0fc7-4c2c-4b32-999b-ecd12b575696.gif>
+</p>
+
 
 ### GPTConversatorium [https://github.com/PeterWaIIace/GPTConversatorium]
 
