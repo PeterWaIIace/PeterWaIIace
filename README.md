@@ -32,6 +32,10 @@ PnP adhoc messaging and file sending using webRTC!
   <img src=https://user-images.githubusercontent.com/40773550/226498912-39fe0fc7-4c2c-4b32-999b-ecd12b575696.gif>
 </p>
 
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/40773550/227060384-e43f812f-5a57-4e06-ae35-2751db01ecf4.jpg>
+  <img src=https://user-images.githubusercontent.com/40773550/227060570-0078867d-45c9-42a3-920d-3fcdc67f8629.gif>
+</p>
 
 ### GPTConversatorium [https://github.com/PeterWaIIace/GPTConversatorium]
 
