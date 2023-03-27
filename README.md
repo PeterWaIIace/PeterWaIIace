@@ -15,7 +15,7 @@ Reach me via [Discord](discordapp.com/users/691353309868458056).
 
 ### WebSend (adhoc communication)
 
-PnP adhoc messaging and file sending using webRTC!
+PnP adhoc messaging with file sending using webRTC!
 * [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 ## OpenSourced Projects: 
