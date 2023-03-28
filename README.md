@@ -28,14 +28,8 @@ PnP adhoc messaging with file sending using webRTC!
 
 ### Genetic Painter [https://github.com/PeterWaIIace/GeneticPainter]
 
-<p align="center">  
-  <img src=https://user-images.githubusercontent.com/40773550/228096507-9778ba91-0704-440e-8fe7-475d73d87731.png width="240" height="240">
-  <img src=https://user-images.githubusercontent.com/40773550/228100220-3f8be211-896a-440f-9829-57247c1e3208.gif width="240" height="240">
-</p>
-
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/40773550/227060384-e43f812f-5a57-4e06-ae35-2751db01ecf4.jpg>
-  <img src=https://user-images.githubusercontent.com/40773550/227060570-0078867d-45c9-42a3-920d-3fcdc67f8629.gif>
+  <img src=https://user-images.githubusercontent.com/40773550/228100220-3f8be211-896a-440f-9829-57247c1e3208.gif width="240" height="240">
 </p>
 
 ### GPTConversatorium [https://github.com/PeterWaIIace/GPTConversatorium]
