@@ -46,6 +46,7 @@ Evolutionary algorithms can make art (or at aleast reproduce it).
 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/40773550/228100220-3f8be211-896a-440f-9829-57247c1e3208.gif width="240" height="240">
+  <img src=https://user-images.githubusercontent.com/40773550/228984764-37cecee3-1a10-46f2-9044-478daee041b1.gif width="240" height="240">
 </p>
 
 ### [GPTConversatorium](https://github.com/PeterWaIIace/GPTConversatorium)
