@@ -28,6 +28,7 @@ Play games with your faces expressions, using Emteq facial sensing glasses! Affe
   <img src=https://user-images.githubusercontent.com/40773550/228829964-80705b7e-74c8-4e3f-bffd-81c974013597.gif width="340" height="200">
 </p>
 
+(clearly I am not the best player ...)
 
 ## OpenSourced Projects: 
 
