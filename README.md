@@ -15,13 +15,9 @@ Reach me via [Discord](discordapp.com/users/691353309868458056).
 
 ### WebSend (adhoc communication)
 
-PnP adhoc messaging with file sending using webRTC!
+PnP adhoc messaging with file sending using webRTC! Allows for transfering files between to machines connected to internet, without sharing any email accounts, usb sticks, or links. Adhoc connection based on QR code or randomly generated passphrase.
+
 * [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
-
-<p align="center">
-  <img src=https://user-images.githubusercontent.com/40773550/222991743-554042f9-e2a4-4095-8450-bfc5725f379a.png>
-
-(This picture comes from version which is currently in WIP state).
 
 ### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/)) - Affective gaming PoC
 
