@@ -19,7 +19,8 @@ PnP adhoc messaging with file sending using webRTC!
 * [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/40773550/222991743-554042f9-e2a4-4095-8450-bfc5725f379a.png width="340" height="200">
+  <img src=https://user-images.githubusercontent.com/40773550/222991743-554042f9-e2a4-4095-8450-bfc5725f379a.png width="400" height="400">
+
 (This picture comes from version which is currently in WIP state).
 
 ### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/)) - Affective gaming PoC
