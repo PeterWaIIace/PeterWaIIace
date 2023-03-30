@@ -44,7 +44,7 @@ What will happen if you let two LLMs talk to each other?
 
 ### [GPTCodeProcessor](https://github.com/PeterWaIIace/GPTCodeProcessor)
 
-LLM can generate code and test it! (feating [BlackBoxTesting](https://github.com/PeterWaIIace/BlackBoxTesting) [WIP] Framework)
+LLM can generate code and test it! (feat. [BlackBoxTesting](https://github.com/PeterWaIIace/BlackBoxTesting) [WIP] Framework)
 
 ![image](https://user-images.githubusercontent.com/40773550/218609556-b03af4a8-bbdd-4dc0-aa76-f0ffb5832244.png)
 
