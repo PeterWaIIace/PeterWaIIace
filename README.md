@@ -9,7 +9,7 @@ for(a)
 }
 ```
 
-Reach me via [Discord](discordapp.com/users/691353309868458056).
+Reach me via [Discord](https://discord.com/users/691353309868458056).
 
 ## My non-opensourced projects: 
 
