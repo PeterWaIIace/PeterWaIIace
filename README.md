@@ -18,9 +18,15 @@ Reach me via [Discord](discordapp.com/users/691353309868458056).
 PnP adhoc messaging with file sending using webRTC!
 * [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
-Facejitsu (done with [Emteq](https://www.emteqlabs.com/)) - play games with your faces expressions! Affective gaming PoC.
+### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/))
 
-   
+Play games with your faces expressions, using Emteq facial sensing glasses! Affective gaming PoC built internally in Emteq.  
+
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/40773550/228829034-e0a69858-92bb-4754-8993-1599176c7dfd.gif width="340" height="200">
+  <img src=https://user-images.githubusercontent.com/40773550/228829964-80705b7e-74c8-4e3f-bffd-81c974013597.gif width="340" height="200">
+</p>!
+
 
 ## OpenSourced Projects: 
 
