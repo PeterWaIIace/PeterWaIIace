@@ -32,6 +32,14 @@ Play games with your faces expressions, using Emteq facial sensing glasses! Affe
 
 ## OpenSourced Projects: 
 
+### [ParticleLife](https://github.com/PeterWaIIace/ParticleLife)
+
+Cpp and Python implementation of particle life algorithm. Pretty and beautiful simulation of emergent structures caused by simple interactions of attraction:
+
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/40773550/234987226-72c52e8c-6991-4da5-bcae-75d3ea1086da.gif  width="300" height="300">
+</p>
+
 ### [Boids](https://github.com/PeterWaIIace/Boids)
 
 Here is my take on implementation of 2D boids algorithm, case showing emergent behaviours based in systems based on simple building blocks.
