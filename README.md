@@ -38,6 +38,7 @@ Cpp and Python implementation of particle life algorithm. Pretty and beautiful s
 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/40773550/234987226-72c52e8c-6991-4da5-bcae-75d3ea1086da.gif  width="300" height="300">
+  <img src=https://user-images.githubusercontent.com/40773550/235330028-1cbec001-e376-451f-b626-23d3366c9347.gif  width="300" height="300">
 </p>
 
 ### [Boids](https://github.com/PeterWaIIace/Boids)
