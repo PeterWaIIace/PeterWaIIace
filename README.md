@@ -22,8 +22,8 @@ Eyes are new mouse. Most people use laptops or smartphones, having easy access t
 [https://eyegestures.com/](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 <p align="center">
-  <img src="https://github.com/PeterWaIIace/me.github.io/assets/40773550/df208ac9-e5f8-4603-8837-6a0791ee56eb" width="644
-" height="400">
+  <img src="https://github.com/PeterWaIIace/me.github.io/assets/40773550/df208ac9-e5f8-4603-8837-6a0791ee56eb" width="600
+" height="350">
 </p>
 
 ### WebSend (adhoc communication)
