@@ -13,24 +13,20 @@ Reach me via [Discord](https://discord.com/users/691353309868458056).
 
 ## My non-opensourced projects: 
 
-### Eyegestures
+### [Eyegestures](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 Ad hoc (minimal calibration) Eye controlled cursor, detecting blinking, following your gaze move and working in web browser! 
 
 Eyes are new mouse. Most people use laptops or smartphones, having easy access to built-in camera systems, and many research papers already shown that a web camera is enough to track gaze. Following that state of affair, I decided to develop this PoC for eye controlled tracker and it seems to work! (well do not expect too much though)
-
-[https://eyegestures.com/](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 <p align="center">
   <img src="https://github.com/PeterWaIIace/me.github.io/assets/40773550/df208ac9-e5f8-4603-8837-6a0791ee56eb" width="600
 " height="350">
 </p>
 
-### WebSend (adhoc communication)
+### [WebSend](https://websend-app-eu.herokuapp.com/) (adhoc communication)![status](https://img.shields.io/badge/status-up-green.svg)
 
 PnP adhoc messaging with file sending using webRTC! Allows for transfering files between to machines connected to internet, without sharing any email accounts, usb sticks, or links. Adhoc connection based on QR code or randomly generated passphrase.
-
-* [https://websend-app.herokuapp.com/](https://websend-app-eu.herokuapp.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 ### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/)) - Affective gaming PoC
 
