@@ -9,6 +9,8 @@ for(a)
 }
 ```
 
+My [Resume](https://peterwaiiace.github.io/me.github.io/cv.html).
+
 Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.piotr@outlook.com.
 
 ## My non-opensourced projects: 
