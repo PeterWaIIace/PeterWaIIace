@@ -13,6 +13,14 @@ My [Resume](https://peterwaiiace.github.io/me.github.io/cv.html).
 
 Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.piotr@outlook.com.
 
+## Announcements:
+
+<a href="https://polar.sh/PeterWaIIace/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/posts.svg?org=PeterWaIIace&darkmode"><img alt="Posts on Polar" src="https://polar.sh/embed/posts.svg?org=PeterWaIIace"></picture></a>
+
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1SGTBV)
+
 ## My non-opensourced projects: 
 
 ### [Eyegestures](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
