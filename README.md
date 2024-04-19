@@ -63,6 +63,10 @@ Play games with your faces expressions, using Emteq facial sensing glasses! Affe
 
 ## OpenSourced Projects: 
 
+### [JAX_vs_Numpy_vs_Loops](https://github.com/PeterWaIIace/benchmarking-matrices/tree/main)
+
+Repo focused on benchmarking matrix operations, to find and document where JAX is outperforming Numpy.
+
 ### [ParticleLife](https://github.com/PeterWaIIace/ParticleLife)
 
 Cpp and Python implementation of particle life algorithm. Pretty and beautiful simulation of emergent structures caused by simple interactions of attraction:
