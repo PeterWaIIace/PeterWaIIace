@@ -63,6 +63,18 @@ Play games with your faces expressions, using Emteq facial sensing glasses! Affe
 
 ## OpenSourced Projects: 
 
+### [JAX-NEAT](https://github.com/PeterWaIIace/NEAT/blob/main/README.md)
+
+This is implementation of Neural Evolution of Augmenting Topologies using JAX, based on paper of Kenneth O. Stanley and Risto Miikkulainen. I am huge fan of evolutionary techniques, so decided to design some tiny framework foR this.
+
+Repository may be a bit of mess, but all main code is in neat.py.
+
+Results roughly after **30 epochs/generations**:
+
+<img src="https://github.com/PeterWaIIace/NEAT/assets/40773550/bfd5e541-8f94-4f12-adaf-7091146ba21c" width="300" height="200">
+<img src="https://github.com/PeterWaIIace/NEAT/assets/40773550/38fd8a25-ef47-48ff-a471-a37276515713" width="300" height="200">
+
+
 ### [JAX_vs_Numpy_vs_Loops](https://github.com/PeterWaIIace/benchmarking-matrices/tree/main)
 
 Repo focused on benchmarking matrix operations, to find and document where JAX is outperforming Numpy.
