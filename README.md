@@ -71,9 +71,10 @@ Repository may be a bit of mess, but all main code is in neat.py.
 
 Results roughly after **30 epochs/generations**:
 
+<p align="center">
 <img src="https://github.com/PeterWaIIace/NEAT/assets/40773550/bfd5e541-8f94-4f12-adaf-7091146ba21c" width="300" height="200">
 <img src="https://github.com/PeterWaIIace/NEAT/assets/40773550/38fd8a25-ef47-48ff-a471-a37276515713" width="300" height="200">
-
+</p>
 
 ### [JAX_vs_Numpy_vs_Loops](https://github.com/PeterWaIIace/benchmarking-matrices/tree/main)
 
