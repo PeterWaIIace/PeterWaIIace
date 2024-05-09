@@ -25,6 +25,23 @@ Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.pi
 
 ## My non-opensourced projects: 
 
+### [WebSend](https://websend-app-eu.herokuapp.com/) (adhoc communication)![status](https://img.shields.io/badge/status-up-green.svg)
+
+PnP adhoc messaging with file sending using webRTC! Allows for transfering files between to machines connected to internet, without sharing any email accounts, usb sticks, or links. Adhoc connection based on QR code or randomly generated passphrase.
+
+### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/)) - Affective gaming PoC
+
+Play games with your faces expressions, using Emteq facial sensing glasses! Affective gaming PoC built by me internally in Emteq. Games are experiments provided by [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) project.  
+
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/40773550/228829034-e0a69858-92bb-4754-8993-1599176c7dfd.gif width="340" height="200">
+  <img src=https://user-images.githubusercontent.com/40773550/228829964-80705b7e-74c8-4e3f-bffd-81c974013597.gif width="340" height="200">
+</p>
+
+(clearly I am not the best player ...)
+
+## OpenSourced Projects: 
+
 ### [Eyegestures](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 Ad hoc (minimal calibration) Eye controlled cursor, detecting blinking, following your gaze move and working in web browser! 
@@ -45,23 +62,6 @@ Demos:
 <img src="https://github.com/PeterWaIIace/PeterWaIIace/assets/40773550/f3132843-063a-439a-8e1c-2385ddfdccda" width="300
 " height="150">
 </p>
-
-### [WebSend](https://websend-app-eu.herokuapp.com/) (adhoc communication)![status](https://img.shields.io/badge/status-up-green.svg)
-
-PnP adhoc messaging with file sending using webRTC! Allows for transfering files between to machines connected to internet, without sharing any email accounts, usb sticks, or links. Adhoc connection based on QR code or randomly generated passphrase.
-
-### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/)) - Affective gaming PoC
-
-Play games with your faces expressions, using Emteq facial sensing glasses! Affective gaming PoC built by me internally in Emteq. Games are experiments provided by [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) project.  
-
-<p align="center">
-  <img src=https://user-images.githubusercontent.com/40773550/228829034-e0a69858-92bb-4754-8993-1599176c7dfd.gif width="340" height="200">
-  <img src=https://user-images.githubusercontent.com/40773550/228829964-80705b7e-74c8-4e3f-bffd-81c974013597.gif width="340" height="200">
-</p>
-
-(clearly I am not the best player ...)
-
-## OpenSourced Projects: 
 
 ### [JAX-NEAT](https://github.com/PeterWaIIace/NEAT/blob/main/README.md)
 
