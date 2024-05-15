@@ -25,6 +25,21 @@ Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.pi
 
 ## My non-opensourced projects: 
 
+### [WiP] [EyePilot](https://polar.sh/NativeSensors)
+
+EyePilot is personal use app based on opensource [Eyegestures](https://github.com/NativeSensors/EyeGestures) python library. It is designed to deliver gaze driven interface for all who cannot use or do not want to use hand based input devices.
+
+<p align="center">
+  <img src="https://github.com/PeterWaIIace/PeterWaIIace/assets/40773550/3b38d73d-bb6f-4f31-b67d-231ac4cd04cb" width="300" height="150">
+<img src="https://github.com/PeterWaIIace/PeterWaIIace/assets/40773550/9942794a-4d24-4f6c-8392-353546b6521b" width="300
+" height="150">
+</p>
+<p align="center">
+  <img src="https://github.com/PeterWaIIace/PeterWaIIace/assets/40773550/1715b4df-7ac3-479e-b51a-f6d800ea8ea5" width="300" height="150">
+<img src="https://github.com/PeterWaIIace/PeterWaIIace/assets/40773550/fd9f66d4-6e62-4f6a-98e3-b16907993d24" width="300
+" height="150">
+</p>
+
 ### [Eyegestures](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 Ad hoc (minimal calibration) Eye controlled cursor, detecting blinking, following your gaze move and working in web browser! 
