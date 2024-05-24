@@ -46,7 +46,7 @@ EyePilot is personal use app based on opensource [Eyegestures](https://github.co
   <picture>
     <source srcset="https://github.com/NativeSensors/EyeGestures/assets/40773550/ddfc8b96-5a7e-4487-9307-6fbd62e8915e" media="(prefers-color-scheme: light)"/>   
     <source srcset="https://github.com/NativeSensors/EyeGestures/assets/40773550/6d42b8a2-24ea-4cbc-bdb0-ad688ee26c36" media="(prefers-color-scheme: dark)"/>    
-   <a href="https://github.com/NativeSensors/EyeGestures"><img width="200px" height="200px"/></a>
+   <img width="200px" height="200px"/>
   </picture>
 </p>
 
