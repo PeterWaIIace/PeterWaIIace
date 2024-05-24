@@ -42,6 +42,15 @@ EyePilot is personal use app based on opensource [Eyegestures](https://github.co
 
 ### [Eyegestures](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
 
+<p align="center">
+  <picture>
+    <source srcset="https://github.com/NativeSensors/EyeGestures/assets/40773550/ddfc8b96-5a7e-4487-9307-6fbd62e8915e" media="(prefers-color-scheme: light)"/>   
+    <source srcset="https://github.com/NativeSensors/EyeGestures/assets/40773550/6d42b8a2-24ea-4cbc-bdb0-ad688ee26c36" media="(prefers-color-scheme: dark)"/>    
+   <a href="https://github.com/NativeSensors/EyeGestures"><img width="200px" height="200px"/></a>
+  </picture>
+</p>
+
+
 Ad hoc (minimal calibration) Eye controlled cursor, detecting blinking, following your gaze move and working in web browser! 
 
 Eyes are new mouse. Most people use laptops or smartphones, having easy access to built-in camera systems, and many research papers already shown that a web camera is enough to track gaze. Following that state of affair, I decided to develop this PoC for eye controlled tracker and it seems to work! (well do not expect too much though)
