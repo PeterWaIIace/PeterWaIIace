@@ -9,7 +9,7 @@ for(a)
 }
 ```
 
-My [Resume](https://peterwaiiace.github.io/me.github.io/cv.html).
+My [Resume](https://github.com/user-attachments/files/15597373/CV.pdf).
 
 Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.piotr@outlook.com.
 
