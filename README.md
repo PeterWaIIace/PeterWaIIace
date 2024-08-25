@@ -17,12 +17,6 @@ Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.pi
 
 <a href="https://polar.sh/PeterWaIIace/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/posts.svg?org=PeterWaIIace&darkmode"><img alt="Posts on Polar" src="https://polar.sh/embed/posts.svg?org=PeterWaIIace"></picture></a>
 
-## Support
-
-<a href="https://polar.sh/PeterWaIIace"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=PeterWaIIace&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=PeterWaIIace&label=Subscribe"></picture></a>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1SGTBV)
-
 ## My non-opensourced projects: 
 
 ### [WiP] [EyePilot](https://polar.sh/NativeSensors)
