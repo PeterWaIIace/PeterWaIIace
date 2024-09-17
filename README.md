@@ -19,7 +19,7 @@ Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.pi
 
 ## My non-opensourced projects: 
 
-### [WiP] [EyePilot](https://polar.sh/NativeSensors)
+### [EyePilot](https://polar.sh/NativeSensors)
 
 EyePilot is personal use app based on opensource [Eyegestures](https://github.com/NativeSensors/EyeGestures) python library. It is designed to deliver gaze driven interface for all who cannot use or do not want to use hand based input devices.
 
@@ -34,7 +34,24 @@ EyePilot is personal use app based on opensource [Eyegestures](https://github.co
 " height="150">
 </p>
 
-### [Eyegestures](https://eyegestures.com/) ![status](https://img.shields.io/badge/status-up-green.svg)
+### [WebSend](https://websend-app-eu.herokuapp.com/) (adhoc communication)![status](https://img.shields.io/badge/status-up-green.svg)
+
+PnP adhoc messaging with file sending using webRTC! Allows for transfering files between to machines connected to internet, without sharing any email accounts, usb sticks, or links. Adhoc connection based on QR code or randomly generated passphrase.
+
+### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/)) - Affective gaming PoC
+
+Play games with your faces expressions, using Emteq facial sensing glasses! Affective gaming PoC built by me internally in Emteq. Games are experiments provided by [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) project.  
+
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/40773550/228829034-e0a69858-92bb-4754-8993-1599176c7dfd.gif width="340" height="200">
+  <img src=https://user-images.githubusercontent.com/40773550/228829964-80705b7e-74c8-4e3f-bffd-81c974013597.gif width="340" height="200">
+</p>
+
+(clearly I am not the best player ...)
+
+## OpenSource Projects: 
+
+### [Eyegestures](https://github.com/NativeSensors/EyeGestures) ![status](https://img.shields.io/badge/status-up-green.svg)
 
 <p align="center">
   <picture>
@@ -68,22 +85,6 @@ Demos:
 " height="150">
 </p>
 
-### [WebSend](https://websend-app-eu.herokuapp.com/) (adhoc communication)![status](https://img.shields.io/badge/status-up-green.svg)
-
-PnP adhoc messaging with file sending using webRTC! Allows for transfering files between to machines connected to internet, without sharing any email accounts, usb sticks, or links. Adhoc connection based on QR code or randomly generated passphrase.
-
-### **Facejitsu** (done with [Emteq](https://www.emteqlabs.com/)) - Affective gaming PoC
-
-Play games with your faces expressions, using Emteq facial sensing glasses! Affective gaming PoC built by me internally in Emteq. Games are experiments provided by [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) project.  
-
-<p align="center">
-  <img src=https://user-images.githubusercontent.com/40773550/228829034-e0a69858-92bb-4754-8993-1599176c7dfd.gif width="340" height="200">
-  <img src=https://user-images.githubusercontent.com/40773550/228829964-80705b7e-74c8-4e3f-bffd-81c974013597.gif width="340" height="200">
-</p>
-
-(clearly I am not the best player ...)
-
-## OpenSourced Projects: 
 
 ### [JAX-NEAT](https://github.com/PeterWaIIace/NEAT/tree/main)
 
