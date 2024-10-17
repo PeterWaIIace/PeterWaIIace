@@ -13,10 +13,6 @@ My [Resume](https://github.com/user-attachments/files/15597373/CV.pdf).
 
 Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.piotr@outlook.com.
 
-## Announcements:
-
-<a href="https://polar.sh/PeterWaIIace/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/posts.svg?org=PeterWaIIace&darkmode"><img alt="Posts on Polar" src="https://polar.sh/embed/posts.svg?org=PeterWaIIace"></picture></a>
-
 ## My non-opensourced projects: 
 
 ### [EyePilot](https://polar.sh/NativeSensors)
