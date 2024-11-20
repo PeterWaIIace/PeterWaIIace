@@ -15,6 +15,15 @@ Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.pi
 
 ## My non-opensourced projects: 
 
+### [EasyNotes](https://peterwaiiace.github.io/me.github.io/uprojects/easynotes.html)
+
+Software for taking notes easily in the webbrowser!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7e1e69dc-3f44-4794-a64a-7605d84c5e72" width="300" height="150">
+  <img src="https://github.com/user-attachments/assets/a0e6fa88-d87e-4edb-bd3b-507531cfa9b3" width="300" height="150">
+</p>
+
 ### [EyePilot](https://polar.sh/NativeSensors)
 
 EyePilot is personal use app based on opensource [Eyegestures](https://github.com/NativeSensors/EyeGestures) python library. It is designed to deliver gaze driven interface for all who cannot use or do not want to use hand based input devices.
