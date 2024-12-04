@@ -15,12 +15,12 @@ Reach me via [Discord](https://discord.com/users/691353309868458056) or walas.pi
 
 ## My non-opensourced projects: 
 
-### [EasyNotes](https://peterwaiiace.github.io/me.github.io/uprojects/easynotes.html)
+### [ScribeNotes](https://www.scribenotes.ink)
 
 Software for taking notes easily in the webbrowser!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e1e69dc-3f44-4794-a64a-7605d84c5e72" width="300">
+  <img src="https://github.com/user-attachments/assets/0b61ed9b-c47e-4edc-a1da-bba20e213546" width="300">
   <img src="https://github.com/user-attachments/assets/a0e6fa88-d87e-4edb-bd3b-507531cfa9b3" height="210">
 </p>
 
